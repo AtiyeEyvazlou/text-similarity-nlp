@@ -31,5 +31,5 @@ This project compares text similarity using embeddings from models like Universa
 
 ### **Clone the repo**:
 ```bash
-git clone https://github.com/your_username/text-similarity-nlp.git
+git clone https://github.com/AtiyeEyvazlou/text-similarity-nlp.git
 cd text-similarity-nlp
